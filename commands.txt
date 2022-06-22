@@ -1,0 +1,38 @@
+  GENERAL
+    /checkcommands      check the commands
+
+  ATTENTION
+    /ceceusepoke        have Jasons alexa ring
+    /jasonusepoke       NOT IMPLEMENTED YET HUHU
+
+  MILESTONES
+    /moviesup           increments movies watched by one
+    /setmovies          sets the number of movies watched as an override
+
+    /gamesup            increments games played by one
+    /setgames           sets the number of games played as an override
+
+    /mealsup            increments meals shared/cooked by one
+    /setmeals           sets the number of meals shared/cooked as an override
+
+
+  FLIGHT
+    /setnextflight      take next flight date in mm-dd-yyyy format
+
+  ACTIVITIES
+    /getweekactivites   get the SMTWTFS list of activities: random displayed as 'Random'
+    /gettodaysactivity  get today's activity lmao
+    /setactivityday     type a day with capital first letter 
+                        followed by a space and the activity you want to replace it with
+    /getallpotentialactivites
+                        gets all of the activities we can have run on random days.
+
+    /addpotentialactivity  ACTIVITY
+                        add an activity to the potential activities
+    /removepotentialactivity ACTIVITY
+                        take out an activity from the list of potential activities
+
+  LOVE POINTS
+    /getallpoints       gets all of the points and stats from the love points
+    /pointtocece        gives cece a point for the month
+    /pointtojason       gives jason a point for the month

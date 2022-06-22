@@ -1,0 +1,22 @@
+{
+  "name": "jcloveydovey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cron": "^2.0.0",
+    "data.js": "^0.12.11",
+    "discord.js": "^13.8.0",
+    "express": "^4.18.1",
+    "json": "^11.0.0",
+    "node": "^17.7.2"
+  }
+}
